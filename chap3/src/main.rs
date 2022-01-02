@@ -4,7 +4,7 @@ fn main() {
     another_func();
 
     let x = plus_one(5);
-    println!("Value of x is: {}", x)
+    println!("Value of x is: {}", x);
 }
 
 fn another_func(){
